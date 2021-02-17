@@ -1,4 +1,4 @@
-package com.rowen;
+package com.rowen.Controller;
 
 import com.rowen.domain.Message;
 import com.rowen.repos.MessageRepo;
